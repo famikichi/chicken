@@ -1,3 +1,4 @@
 # 鶏
 
-chicken
+chicken  
+_gitの練習です_
